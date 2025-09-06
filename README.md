@@ -67,6 +67,3 @@ The project includes a **Flask web app** deployed on Google Cloud Platform.
 
 **Raja Shaker Chinthakindi**
 Master’s in Applied Data Science @ University of Southern California (USC)
----
-
-👉 Would you like me to also generate a **shorter version (2–3 sections only)** for a clean GitHub look, or keep this detailed style?
