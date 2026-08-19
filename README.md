@@ -39,12 +39,6 @@ Final dataset → **1,159 rows × 23 columns** (integrated across all three sour
 * Traditional financial indicators (especially **P/E Ratio**) remain strong predictors in small datasets.
 * Sentiment did **not** reliably predict volatility.
 
-## 🌐 Deployment
-
-The project includes a **Flask web app** deployed on Google Cloud Platform.
-
-* Local run → `http://127.0.0.1:5000/`
-* Cloud deployment → [Live Demo](https://usc-dsci510-finalproject.wl.r.appspot.com/)
 
 
 ## 🛠️ Tech Stack
